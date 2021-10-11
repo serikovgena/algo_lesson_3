@@ -5,7 +5,7 @@ namespace lesson3
     class Program
     {
         static void Main(string[] args) {
-            Console.WriteLine("Hello World!");
+            // using BenchmartDotNet for performance testing
         }
     }
 }
